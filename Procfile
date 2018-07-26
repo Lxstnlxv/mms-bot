@@ -1,0 +1,1 @@
+worker: MMS-Bot.py

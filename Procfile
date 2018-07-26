@@ -1,1 +1,1 @@
-worker: MMS-Bot.py
+worker: python MMS-Bot.py

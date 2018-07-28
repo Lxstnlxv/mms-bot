@@ -4,7 +4,7 @@ import sys, traceback
 import os
 
 
-extension_list = ['cogs.admin', 'cogs.roles', 'cogs.help']
+extension_list = ['cogs.admin', 'cogs.roles', 'cogs.help', 'cogs.test']
 
 bot = commands.Bot(command_prefix='>', description="General Bot")
 bot.remove_command('help')
